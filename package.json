@@ -17,7 +17,8 @@
     "buffer": "^5.7.1",
     "path-browserify": "^1.0.1",
     "parcel-reporter-static-files-copy": "^1.5.0",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "parcel": "^2.8.3"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -41,7 +42,6 @@
     "next": "13.2.4",
     "openai": "^3.2.1",
     "openai-ext": "^1.2.6",
-    "parcel": "^2.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
